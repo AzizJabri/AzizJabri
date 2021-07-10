@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AzizJabri
-- 👀 I’m interested in WebApp Development
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in WebApp Development and
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on some small scale projects
+- I want to become a Software Engineer in the near future
 
 <!---
 AzizJabri/AzizJabri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
