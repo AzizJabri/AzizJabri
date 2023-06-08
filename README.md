@@ -9,9 +9,11 @@ Knowledge of back-end technologies such as Node.js and Express
 Understanding of database systems such as SQL and NoSQL
 ## Projects
 Here are some of my notable projects:
+<ul>
+  <li>LinktreeClone: Clone for the famous Linktree Application.</li>
+  <li>Crypto-Chart: A charting website for Cryptocurrency prices (Bitcoin and Eth).</li>
+</ul>
 
-LinktreeClone: Clone for the famous Linktree Application
-Crypto-Chart: A charting website for Cryptocurrency prices (Bitcoin and Eth)
 ## Contact
 Feel free to reach out to me if you'd like to connect or have any questions about my projects. You can find my email address and other contact information on my Github profile.
 
