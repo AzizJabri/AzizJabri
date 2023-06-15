@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://azizjb.me](azizjb.me)
+- 👨‍💻 All of my projects are available at [azizjb.me](https://azizjb.me)
 
 - 📫 How to reach me **azizjb.business@gmail.com**
 
-- 📄 Know about my experiences [https://azizjb.me](azizjb.me)
+- 📄 Know about my experiences [azizjb.me](https://azizjb.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
