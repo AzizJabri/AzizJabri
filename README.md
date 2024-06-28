@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizjabri&label=Profile%20views&color=0e75b6&style=flat" alt="azizjabri" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [azizjb.tn](https://azizjb.tn)
 
 - 📫 How to reach me **azizjb.business@gmail.com**
 
-- 📄 Know about my experiences [azizjb.me](https://azizjb.me)
+- 📄 Know about my experiences [azizjb.tn](https://azizjb.tn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
