@@ -18,9 +18,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,python,java,javascript,nodejs,django,express,react,tailwind,mysql,postgres,mongodb,docker,kubernetes,jenkins,terraform,azure&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,python,java,javascript,nodejs,django,express,react,tailwind,mysql,postgres,mongodb,docker,kubernetes,jenkins,terraform,azure" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizjabri&show_icons=true&locale=en&layout=compact" alt="azizjabri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizjabri&show_icons=true&locale=en&layout=compact&theme=dracula" alt="azizjabri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizjabri&show_icons=true&locale=en" alt="azizjabri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizjabri&show_icons=true&locale=en&theme=dracula" alt="azizjabri" /></p>
