@@ -13,13 +13,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aziz-jabri/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aziz-jabri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aziz-jabri/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aziz-jabri"/></a>
   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[[![My Skills]([https://skillicons.dev/icons?i=angular,django,docker,express,git,html,java,javascript,mongodb,mysql,nodejs,postgres,python,react,tailwind](https://skillicons.dev/icons?i=django,docker,express,git,java,javascript,mongodb,mysql,nodejs,postgres,python,react,tailwind,terraform,azure,kubernetes,jenkins&perline=5))](https://skillicons.dev)](https://skillicons.dev/icons?i=git,python,java,javascript,nodejs,django,express,react,tailwind,mysql,postgres,mongodb,docker,kubernetes,jenkins,terraform,azure,aws,github)
-<p align="left"> 
+<img src="https://skillicons.dev/icons?i=git,python,java,javascript,nodejs,django,express,react,tailwind,mysql,postgres,mongodb,docker,kubernetes,jenkins,terraform,azure&perline=5" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizjabri&show_icons=true&locale=en&layout=compact" alt="azizjabri" /></p>
